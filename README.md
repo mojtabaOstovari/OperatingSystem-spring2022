@@ -36,7 +36,7 @@
 | Lecture number | Date | Topic | Slides | Video | 
 | :------------: |:----:| :----:| :-----:| :---: |
 | Lecture 1 |  1399/11/23 | Course description | slide | video |
-| Lecture 2 |  1399/11/30 | Introduction | [Slide 02](.\Slides\02.pdf) | video |
+| Lecture 2 |  1399/11/30 | Introduction | <a href=".\Slides\02.pdf">Slide 02</a> | video |
 
 <br>
 
