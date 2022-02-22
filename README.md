@@ -52,7 +52,7 @@
 
 * [**Assignments**](#assignments) – <b>30%</b>
 
-* [**Project**](#project) – <b>35%</b>
+* [**Quiz**](#quiz) – <b>35%</b>
 
 * [**Exam**](#Exam) – <b>35%</b>
 
