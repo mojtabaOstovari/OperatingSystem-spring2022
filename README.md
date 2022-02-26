@@ -41,7 +41,6 @@
 | Lecture 4 |  1400/12/08 | Operating-System Structures | <a href=".\Slides\04.pdf">Slide 04</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/04.mkv?forcedownload=1">video</a> |
 <br>
 
-https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/01.mkv?forcedownload=1
 
 
 [comment]: <> (# Assignments )
