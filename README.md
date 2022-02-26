@@ -34,11 +34,14 @@
 # Lectures
 
 | Lecture number | Date | Topic | Slides | Video | 
-| :------------: |:----:| :----:| :-----:| :---: |
-| Lecture 1 |  1399/11/23 | Course description | slide | video |
-| Lecture 2 |  1399/11/30 | Introduction | <a href=".\Slides\02.pdf">Slide 02</a> | video |
-
+| :------------: |:----:| :--------------:| :-----:| :-----: |
+| Lecture 1 |  1400/11/24 | Course description | slide | video |
+| Lecture 2 |  1400/11/01 | Introduction | <a href=".\Slides\02.pdf">Slide 02</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/01.mkv?forcedownload=1">video</a> |
+| Lecture 3 |  1400/12/03 | Introduction | <a href=".\Slides\02.pdf">Slide 02</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/02.mkv?forcedownload=1">video</a> |
+| Lecture 4 |  1400/12/08 | Operating-System Structures | <a href=".\Slides\03.pdf">Slide 03</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/03.mkv?forcedownload=1">video</a> |
 <br>
+
+https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/01.mkv?forcedownload=1
 
 
 [comment]: <> (# Assignments )
