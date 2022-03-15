@@ -41,6 +41,8 @@
 | Lecture 4 |  1400/12/08 | Operating-System Structures | <a href=".\Slides\04.pdf">Slide 04</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/04.mkv?forcedownload=1">video</a> |
 | Lecture 5 |  1400/12/15 | Processes | <a href=".\Slides\05.pdf">Slide 05</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/05.mkv?forcedownload=1">video</a> |
 | Lecture 6 |  1400/12/17 | Processes | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/06.mkv?forcedownload=1">video</a> |
+| Lecture 7 |  1400/12/22 | Processes | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/07.mkv?forcedownload=1">video</a> |
+| Lecture 8 |  1400/12/24 | Threads | <a href=".\Slides\08.pdf">Slide 08</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/08.mkv?forcedownload=1">video</a> |
 <br>
 
 
