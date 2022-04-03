@@ -43,7 +43,7 @@
 | Lecture 6 |  1400/12/17 | Processes | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/06.mkv?forcedownload=1">video</a> |
 | Lecture 7 |  1400/12/22 | Processes | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/07.mkv?forcedownload=1">video</a> |
 | Lecture 8 |  1400/12/24 | Threads | <a href=".\Slides\08.pdf">Slide 08</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/08.mkv?forcedownload=1">video</a> |
-| Lecture 9 |  1401/01/14 | Scheduling | <a href=".\Slides\09.pdf">Slide 08</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/09.mkv?forcedownload=1">video</a> |
+| Lecture 9 |  1401/01/14 | Scheduling | <a href=".\Slides\09.pdf">Slide 09</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/09.mkv?forcedownload=1">video</a> |
 <br>
 
 
