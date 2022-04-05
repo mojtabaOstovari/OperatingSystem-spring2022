@@ -35,15 +35,16 @@
 
 | Lecture number | Date | Topic | Slides | Video | 
 | :------------: |:----:| :--------------:| :-----:| :-----: |
-| Lecture 1 |  1400/11/24 | Course description | <a href=".\Slides\01.pdf">Slide 01</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/01.mkv?forcedownload=1">video</a> |
-| Lecture 2 |  1400/11/01 | Introduction | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/02.mkv?forcedownload=1">video</a> |
-| Lecture 3 |  1400/12/03 | Introduction | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/03.mkv?forcedownload=1">video</a> |
-| Lecture 4 |  1400/12/08 | Operating-System Structures | <a href=".\Slides\04.pdf">Slide 04</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/04.mkv?forcedownload=1">video</a> |
-| Lecture 5 |  1400/12/15 | Processes | <a href=".\Slides\05.pdf">Slide 05</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/05.mkv?forcedownload=1">video</a> |
-| Lecture 6 |  1400/12/17 | Processes | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/06.mkv?forcedownload=1">video</a> |
-| Lecture 7 |  1400/12/22 | Processes | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/07.mkv?forcedownload=1">video</a> |
-| Lecture 8 |  1400/12/24 | Threads | <a href=".\Slides\08.pdf">Slide 08</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/08.mkv?forcedownload=1">video</a> |
-| Lecture 9 |  1401/01/14 | Scheduling | <a href=".\Slides\09.pdf">Slide 09</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/09.mkv?forcedownload=1">video</a> |
+| Lecture 01 |  1400/11/24 | Course description | <a href=".\Slides\01.pdf">Slide 01</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/01.mkv?forcedownload=1">video</a> |
+| Lecture 02 |  1400/11/01 | Introduction | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/02.mkv?forcedownload=1">video</a> |
+| Lecture 03 |  1400/12/03 | Introduction | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/03.mkv?forcedownload=1">video</a> |
+| Lecture 04 |  1400/12/08 | Operating-System Structures | <a href=".\Slides\04.pdf">Slide 04</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/04.mkv?forcedownload=1">video</a> |
+| Lecture 05 |  1400/12/15 | Processes | <a href=".\Slides\05.pdf">Slide 05</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/05.mkv?forcedownload=1">video</a> |
+| Lecture 06 |  1400/12/17 | Processes | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/06.mkv?forcedownload=1">video</a> |
+| Lecture 07 |  1400/12/22 | Processes | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/07.mkv?forcedownload=1">video</a> |
+| Lecture 08 |  1400/12/24 | Threads | <a href=".\Slides\08.pdf">Slide 08</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/08.mkv?forcedownload=1">video</a> |
+| Lecture 09 |  1401/01/14 | Scheduling | <a href=".\Slides\09.pdf">Slide 09</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/09.mkv?forcedownload=1">video</a> |
+| Lecture 10 |  1401/01/14 | Scheduling | Slide | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/010.mkv?forcedownload=1">video</a> |
 <br>
 
 
