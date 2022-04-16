@@ -45,7 +45,7 @@
 | Lecture 08 |  1400/12/24 | Threads | <a href=".\Slides\08.pdf">Slide 08</a> | <a href="https://cw.sharif.edu/pluginfile.php/478301/mod_folder/content/0/08.mkv?forcedownload=1">video</a> |
 | Lecture 09 |  1401/01/14 | Scheduling | <a href=".\Slides\09.pdf">Slide 09</a> | - |
 | Lecture 10 |  1401/01/16 | Scheduling | Slide | - |
-| Lecture 11 |  1401/01/21 | Synchronization | <a href=".\Slides\11.pdf">Slide 011</a> | - |
+| Lecture 11 |  1401/01/21 | Synchronization | <a href=".\Slides\11.pdf">Slide 11</a> | - |
 | Lecture 12 |  1401/01/28 | Synchronization | Slide | - |
 <br>
 
