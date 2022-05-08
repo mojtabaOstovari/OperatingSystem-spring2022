@@ -47,6 +47,8 @@
 | Lecture 10 |  1401/01/16 | Scheduling | Slide | - |
 | Lecture 11 |  1401/01/21 | Synchronization | <a href=".\Slides\11.pdf">Slide 11</a> | - |
 | Lecture 12 |  1401/01/28 | Synchronization | Slide | - |
+| - |  - | Deadlocks | <a href=".\Slides\c7.pdf">Slide</a> | - |
+| - |  - | Memory Management | <a href=".\Slides\c8.pdf">Slide</a> | - |
 <br>
 
 
