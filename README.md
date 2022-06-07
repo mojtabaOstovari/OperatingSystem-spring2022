@@ -49,6 +49,7 @@
 | Lecture 12 |  1401/01/28 | Synchronization | Slide | - |
 | - |  - | Deadlocks | <a href=".\Slides\c7.pdf">Slide</a> | - |
 | - |  - | Memory Management | <a href=".\Slides\c8.pdf">Slide</a> | - |
+| - |  - | Virtual-Memory Management | <a href=".\Slides\c9.pdf">Slide</a> | - |
 <br>
 
 
